@@ -169,3 +169,6 @@ class MODNet(nn.Module):
 ## MODNET virtualcam.py
 To use the model to remove background from your live camera feed, download the saved model from above mentioned drive link. Store it in the same location as MODNET virtualcam.py and run the python file.
  This however requires you to have OBS virtual camera to be installed in your system.
+ 
+ https://obsproject.com/download
+ https://drive.google.com/file/d/12Hx62JvC0ku-lIOABruaFHPj3fXM8Gs8/view?usp=sharing
